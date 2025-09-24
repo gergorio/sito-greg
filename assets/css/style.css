@@ -117,15 +117,30 @@ body,html{
     font-size:22px
 }
 
-.font-inter{
-    font-family:Inter,sans-serif
+.space-mono-regular {
+  font-family: "Space Mono", monospace;
+  font-weight: 400;
+  font-style: normal;
 }
-.font-weight-500{
-    font-weight:500
+
+.space-mono-bold {
+  font-family: "Space Mono", monospace;
+  font-weight: 700;
+  font-style: normal;
 }
-.font-weight-600{
-    font-weight:600
+
+.space-mono-regular-italic {
+  font-family: "Space Mono", monospace;
+  font-weight: 400;
+  font-style: italic;
 }
+
+.space-mono-bold-italic {
+  font-family: "Space Mono", monospace;
+  font-weight: 700;
+  font-style: italic;
+}
+
 
 .color-white{
     color:#fff
