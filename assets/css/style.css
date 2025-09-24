@@ -188,7 +188,7 @@ body,html{
 
 .page-item-each {
     color: #1F365C;
-    font-family: 'Inter', sans-serif;
+    font-family: "Space Mono", monospace;
     font-size: 16px;
     font-weight: 500;
     text-transform: none;
@@ -226,7 +226,7 @@ body,html{
 }
 
 .page-text-font {
-    font-family: 'Inter', sans-serif;
+    font-family: "Space Mono", monospace;
     text-transform: none;
 }
 
@@ -273,7 +273,7 @@ body,html{
 }
 .page-overlay-btn{
     text-decoration:none;
-    font-family:Inter,sans-serif;
+    font-family:"Space Mono", monospace;
     background:transparent;
     padding:10px 30px;
     border-radius:6px;
@@ -578,7 +578,7 @@ body,html{
 }
 
 .subsc-email::-moz-placeholder{
-    font-family:Inter,sans-serif;
+    font-family:"Space Mono", monospace;
     font-size:14px;
     line-height:19px;
     color:hsla(0,0%,100%,.5)
@@ -586,14 +586,14 @@ body,html{
 }
 
 .subsc-email:-ms-input-placeholder{
-    font-family:Inter,sans-serif;
+    font-family:"Space Mono", monospace;
     font-size:14px;
     line-height:19px;
     color:hsla(0,0%,100%,.5)
 }
 
 .subsc-email::placeholder{
-    font-family:Inter,sans-serif;
+    font-family:"Space Mono", monospace;
     font-size:14px;
     line-height:19px;
     color:hsla(0,0%,100%,.5)
