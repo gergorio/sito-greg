@@ -357,12 +357,7 @@ body,html{
     
     .text-outline-shadow {
         -webkit-text-stroke: 0.5px black;
-        text-shadow: 
-            -1.5px -1.5px 0 black,
-             1.5px -1.5px 0 black,
-            -1.5px  1.5px 0 black,
-             1.5px  1.5px 0 black,
-             2px 2px 4px rgba(0, 0, 0, 0.4);
+        
     }
     
     .page-item-each {
