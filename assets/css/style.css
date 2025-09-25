@@ -356,7 +356,7 @@ body,html{
     }
     
     .text-outline-shadow {
-        -webkit-text-stroke: 1.0px black;
+        -webkit-text-stroke: 0.5px black;
         text-shadow: 
             -1.5px -1.5px 0 black,
              1.5px -1.5px 0 black,
