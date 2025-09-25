@@ -6,7 +6,7 @@ body,html{
     background-color: transparent;
     width: 100%;
     overflow-x: hidden;
-    min-height: 100vh;
+    min-height: 120vh;
 }
 
 /* RESET */
@@ -414,9 +414,7 @@ body,html{
 
 /* MOBILE BACKGROUND FALLBACK */
 @media screen and (max-width: 767px) {
-    body {
-        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-    }
+   
     
     .page-full-wrap{
         width:90%
